@@ -24,4 +24,4 @@ A simple **HTML form** to collect personal information from users.
 
 - ## 🌐 Live Demo
   Check out the live version of this project here:  
-  👉 [**Live Demo**](https://islamelsaedy616.github.io/Family-bakery-website/)
+  👉 [**Live Demo**](https://islamelsaedy616.github.io/Personal-data-form/)
